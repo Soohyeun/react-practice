@@ -12,7 +12,8 @@ import reportWebVitals from './reportWebVitals';
 // import AttendanceBook from './chapter_10/AttendanceBook';
 // import SignUp from './chapter_11/SignUp';
 // import Calculator from './chapter_12/Calculator';
-import ProfileCard from './chapter_13/ProfileCard'
+// import ProfileCard from './chapter_13/ProfileCard'
+import DarkOrLight from './chapter_14/DarkOrLight';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
@@ -32,7 +33,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
   <React.StrictMode>
-    <ProfileCard />
+    <DarkOrLight />
   </React.StrictMode>
 );
 
