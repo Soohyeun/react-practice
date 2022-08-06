@@ -20,4 +20,4 @@ function DarkOrLight (props) {
     );
 }
 
-export default DarkOrLight
+export default DarkOrLight;
